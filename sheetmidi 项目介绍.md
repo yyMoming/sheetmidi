@@ -4,9 +4,9 @@
 
 
 
-<img src="D:\Work\demo\sheetmidi\images\step1.png" style="zoom:50%;" />
+<img src="https://sight-singing.oss-cn-qingdao.aliyuncs.com/ywm/step1.png" style="zoom:50%;" />
 
-<img src="D:\Work\demo\sheetmidi\images\step2.png" style="zoom:50%;" />
+<img src="https://sight-singing.oss-cn-qingdao.aliyuncs.com/ywm/step2.png" style="zoom:50%;" />
 
 ### 2. 项目目录
 
@@ -69,8 +69,8 @@
 
 - 解析视唱图片和矫正检测错误
 
-  ![](D:\Work\demo\sheetmidi\images\演示1.png)
+  ![](https://sight-singing.oss-cn-qingdao.aliyuncs.com/ywm/display1.png)
 
 - 查看、修改已有记录
 
-![](D:\Work\demo\sheetmidi\images\演示2.png)
+![](https://sight-singing.oss-cn-qingdao.aliyuncs.com/ywm/display2.png)
